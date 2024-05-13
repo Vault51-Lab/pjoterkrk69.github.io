@@ -15,4 +15,4 @@ Praca: brak
 
 [Github Blog](https://pjoterkrk69.github.io/)
 
-[LinkedIn](https://www.linkedin.com/in/pjoterkrk69/))
+[LinkedIn](https://www.linkedin.com/in/pjoterkrk69/)
