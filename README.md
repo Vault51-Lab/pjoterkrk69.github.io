@@ -1,27 +1,19 @@
-# whiteglass-template
+# NFO
 
-[![Deploy Jekyll site to Pages](https://github.com/yous/whiteglass-template/actions/workflows/main.yml/badge.svg?branch=source)](https://github.com/yous/whiteglass-template/actions/workflows/main.yml)
+Blog osobisty o mojej ścieżce kariery `ITsec` - wykonywane szkolenia, kursy, przeczytana literatura, własne eksperymenty, ciekawostki oraz troche retro gamingu. Od zera, po godzinach. EST 2024
 
-Template site for [whiteglass](https://github.com/yous/whiteglass) theme. Click
-"Use this template" button to start.
-
-## Configuration
-
-Change the options defined in _config.yml. Let's say the URL of your source
-repository is `https://github.com/johndoe/some-repo`.
+## Status
 
 ``` yaml
-title: My site title
-author: John Doe
-description: This is my site description.
-baseurl: "/some-repo"
-url: "https://johndoe.github.io"
+Obecnie w toku: CISCO cert
+Praca: brak
 ```
 
 For further details, see [Configuration](https://jekyllrb.com/docs/configuration/)
 section under Jekyll documentation.
 
-## License
+## Linki
 
-whiteglass-template is free and unencumbered software released into the public
-domain. For more information, please refer to <http://unlicense.org/>.
+[Github](https://github.com/pjoterkrk69))
+[Github Blog](https://pjoterkrk69.github.io/))
+[LinkedIn](https://linktr.ee/pjoterkrk69)
