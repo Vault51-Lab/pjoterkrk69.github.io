@@ -11,6 +11,8 @@ Praca: brak
 
 ## Linki
 
-[Github](https://github.com/pjoterkrk69))
-[Github Blog](https://pjoterkrk69.github.io/))
+[Github](https://github.com/pjoterkrk69)
+
+[Github Blog](https://pjoterkrk69.github.io/)
+
 [LinkedIn](https://linktr.ee/pjoterkrk69)
