@@ -8,8 +8,6 @@ Blog osobisty o mojej ścieżce kariery ITsec - wykonywane szkolenia, kursy, prz
 
 Od zera, po godzinach. 
 
-EST 2024
-
 # Linki
 
 [Github](https://github.com/pjoterkrk69)
