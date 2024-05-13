@@ -9,9 +9,6 @@ Obecnie w toku: CISCO cert
 Praca: brak
 ```
 
-For further details, see [Configuration](https://jekyllrb.com/docs/configuration/)
-section under Jekyll documentation.
-
 ## Linki
 
 [Github](https://github.com/pjoterkrk69))
