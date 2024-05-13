@@ -8,5 +8,5 @@ Wpis testowy `ITsec`
 {% highlight ruby %}
 Hello World
 {% endhighlight %}
-Wróc do Github [Tutaj]
-[Tutaj]: https://github.com/pjoterkrk69/
+Wróc do Github [Tutaj][Tutaj-1]
+[Tutaj-1]: https://github.com/pjoterkrk69/
