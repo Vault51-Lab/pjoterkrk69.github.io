@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the whiteglass theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Blog osobisty o mojej ścieżce kariery ITsec - wykonywane szkolenia, kursy, przeczytana literatura, własne eksperymenty, ciekawostki oraz troche retro gamingu. 
 
-You can find the source code for whiteglass at GitHub:
-[yous](https://github.com/yous) /
-[whiteglass](https://github.com/yous/whiteglass)
+Od zera, po godzinach. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+EST 2024
 
+# Linki
 
-[jekyll-organization]: https://github.com/jekyll
+[Github](https://github.com/pjoterkrk69)
+
+[Github Blog](https://pjoterkrk69.github.io/)
+
+[LinkedIn](https://www.linkedin.com/in/pjoterkrk69/)
