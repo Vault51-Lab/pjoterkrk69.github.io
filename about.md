@@ -17,5 +17,7 @@ Od zera, po godzinach.
 [LinkedIn](https://www.linkedin.com/in/pjoterkrk69/)
 
 Steam: Pjoterkrk69
+
 BattleTag: PjoterKrk69#2181
+
 GOG: Pjoterkrk69
