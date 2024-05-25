@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Gaming#1"
+date: 2024-05-25
+categories: Gaming
+---
+Przed nauką odpowiednie szachy
+
+Wróc do Github [Tutaj][Tutaj-1]
+
+[Tutaj-1]: https://github.com/pjoterkrk69/
