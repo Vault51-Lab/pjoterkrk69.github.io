@@ -6,7 +6,7 @@ categories: Gaming
 ---
 Przed nauką odpowiednie szachy
 
-![Optional Text](_images/gaming1.jpg)
+![Optional Text](images/gaming1.jpg)
 
 Wróc do Github [Tutaj][Tutaj-1]
 
