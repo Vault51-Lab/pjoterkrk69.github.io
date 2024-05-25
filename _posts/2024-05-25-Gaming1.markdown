@@ -5,7 +5,9 @@ date: 2024-05-25
 categories: Gaming
 ---
 Przed nauką odpowiednie szachy
-_images/gaming1.jpg
+
+![gaming1](gaming1.jpg)
+
 Wróc do Github [Tutaj][Tutaj-1]
 
 [Tutaj-1]: https://github.com/pjoterkrk69/
