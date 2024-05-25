@@ -6,7 +6,6 @@ Blog osobisty o mojej ścieżce kariery `ITsec` - wykonywane szkolenia, kursy, p
 
 ``` yaml
 Obecnie w toku: CISCO cert
-Praca: brak
 ```
 
 ## Linki
