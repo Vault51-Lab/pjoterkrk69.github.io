@@ -7,7 +7,3 @@ categories: Gaming
 Przed nauką odpowiednie szachy
 
 ![Optional Text](images/gaming1.jpg)
-
-Wróc do Github [Tutaj][Tutaj-1]
-
-[Tutaj-1]: https://github.com/pjoterkrk69/
